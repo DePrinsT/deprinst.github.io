@@ -1,1 +1,3 @@
-My Personal website. It serves both as a way to showcase my activities and interests, and as an easily accessible CV. Based on the al-folio theme (https://github.com/alshedivat/al-folio).
+# Toon De Prins
+
+This is the repository for my [personal website](https://deprinst.github.io/). It serves as a way to showcase my current activities, projects interests, as well as previous publications. It also contains an easily accessible, extensive CV. Based on the [al-folio theme](https://github.com/alshedivat/al-folio).

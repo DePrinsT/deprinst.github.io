@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:
+subtitle: PhD student in Astronomy and Astrophysics
 
 profile:
   align: right
@@ -14,6 +14,12 @@ profile:
     <p>Affiliations:<br>
       <a href='https://fys.kuleuven.be/ster'>KU Leuven, IoA</a><br>
       <a href='https://www.fwo.be/en/'>Research Foundation-Flanders </a>
+    <br><br></p>
+
+    <p>Address:<br>
+      Office 04.39<br>
+      Celestijnenlaan 200D<br> 
+      3001 Leuven, Belgium
     </p>
 
 news: false # includes a list of news items
@@ -41,4 +47,4 @@ body::after {
 
 I'm a **PhD fellow in fundamental research** of the [Research Foundation-Flanders (FWO)](https://www.fwo.be/en/), performing analyses of astrophysical observational data in the research group of [Prof. Dr. Hans Van Winckel](https://scholar.google.be/citations?user=XF-c7_IAAAAJ&hl=nl) at [KU Leuven's Institute of Astronomy (IoA)](https://fys.kuleuven.be/ster).
 
-Our group focuses on observations of a specific type of **evolved low-to-intermediate mass stars**, called post-AGBs. These stars, stripped of their exterior in the preceding evolutionary phases, now rapidly contract and approach the final stages of their life.
+Our group focuses on observations of a specific type of **evolved low-to-intermediate mass stars**, called post-AGBs. These stars, stripped of their exterior in the preceding evolutionary phases, now rapidly contract and approach the final stages of their life. If orbited by a companion star, we call these stellar systems **post-AGB binaries**.
