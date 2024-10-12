@@ -25,7 +25,7 @@ body::after {
 }
 </style>
 
-Various talks I have given accross my career; in chronological order:
+Scientific talks I have given; in chronological order:
 
 - XIV Torino Workshop on AGB stars; conference talk (Jun 14 2024): *'Jet Formation in Post-AGB Binaries: Confronting cold MHD disc wind models with observations'* [(conference website)](https://indico.ict.inaf.it/event/2523/page/1349-presentations-and-posters-instructions)
 

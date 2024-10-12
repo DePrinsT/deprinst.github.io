@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A summary of projects I am (or have been) involved with.
+description: A summary of projects I currently am or have been involved with.
 nav: true
 nav_order: 3
 display_categories: [Software development]
