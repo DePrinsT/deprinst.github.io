@@ -32,7 +32,7 @@ My contributions to teaching at the university level and general science outreac
 - KU Leuven:
   - [Fysica 1: mechanica en golven](https://onderwijsaanbod.kuleuven.be/syllabi/n/I0N10EN.htm#activetab=doelstellingen_idp36464) (Physics 1: mechanics and waves). **Lab assistant**. *Spring 2023*.
   - [Algemene natuurkunde II](https://onderwijsaanbod.kuleuven.be/syllabi/n/G0N13BN.htm#activetab=doelstellingen_idp1117680) (General physics II). **Lab assistant**. *Fall 2023, Fall 2024*.
-  - [Algemene natuurkunde I](https://onderwijsaanbod.kuleuven.be/syllabi/n/G0N03BN.htm#activetab=doelstellingen_idp5521952) (General physics I). Exercis session **teaching assistant**. *Fall 2022*.
+  - [Algemene natuurkunde I](https://onderwijsaanbod.kuleuven.be/syllabi/n/G0N03BN.htm#activetab=doelstellingen_idp5521952) (General physics I). Exercise session **teaching assistant**. *Fall 2022*.
 
 ## Outreach
 - KU Leuven:
