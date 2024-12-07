@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DISTROI
-description: A Python package to compute optical interferometry observables from radiative transfer model images and compare them to observations from modern observatories. 
+description: A Python package to compute observables from radiative transfer model images and compare them to observations from modern optical interferometry observatories. 
 img: assets/img/distroi_logo.png
 importance: 1
 redirect: https://github.com/DePrinsT/distroi 

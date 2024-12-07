@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ORGANIC
-description: A Python package that uses neural networks to reconstruct images from the data provided by modern optical interferometry observatories.
+description: A Python package for image reconstruction from the data provided by modern optical interferometry observatories using general adversarial neural networks.
 img: assets/img/organic_logo.png
 importance: 2
 redirect: https://github.com/DePrinsT/organic

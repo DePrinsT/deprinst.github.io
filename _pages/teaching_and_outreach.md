@@ -35,5 +35,6 @@ My contributions to teaching at the university level and general science outreac
   - [Algemene natuurkunde I](https://onderwijsaanbod.kuleuven.be/syllabi/n/G0N03BN.htm#activetab=doelstellingen_idp5521952) (General physics I). Exercise session **teaching assistant**. *Fall 2022*.
 
 ## Outreach
+
 - KU Leuven:
   - [Summer of Science 2024](https://wet.kuleuven.be/welcomeatscience/summerofscience). Teacher for a full-day course on optical interferometry in the context of Experimental Techniques in Gravitational Wave Physics (EXPTECH). *July 2024*.
