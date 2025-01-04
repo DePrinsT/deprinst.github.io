@@ -12,14 +12,16 @@ profile:
     <p>Email:<br>
     toon.deprins@protonmail.com<br><br></p>
     <p>Affiliations:<br>
-      <a href='https://fys.kuleuven.be/ster'>KU Leuven, IoA</a><br>
-      <a href='https://www.fwo.be/en/'>Research Foundation-Flanders </a>
+      <a href='https://fys.kuleuven.be/ster'>&#x2022 KU Leuven, IoA</a><br>
+      <a href='https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/astrophysics-and-space-technologies'>&#x2022 Macquarie University, ASTRC</a><br>
+      <a href='https://www.fwo.be/en/'>&#x2022 Research Foundation-Flanders </a>
     <br><br></p>
 
-    <p>Address:<br>
-      Office 04.39<br>
-      Celestijnenlaan 200D<br> 
-      3001 Leuven, Belgium
+    <p>Addresses:<br>
+      &#x2022 Celestijnenlaan 200D<br> 
+      3001 Leuven, Belgium<br>
+      &#x2022 7 Wally's Walk <br>
+      NSW 2109, Australia
     </p>
 
 news: false # includes a list of news items
@@ -45,7 +47,7 @@ body::after {
 }
 </style>
 
-I'm a **PhD fellow in fundamental research** of the [Research Foundation-Flanders (FWO)](https://www.fwo.be/en/), performing analyses of astrophysical observations in the research group of [Prof. Dr. Hans Van Winckel](https://scholar.google.be/citations?user=XF-c7_IAAAAJ&hl=nl) at [KU Leuven's Institute of Astronomy (IoA)](https://fys.kuleuven.be/ster).
+I'm a **PhD fellow in fundamental research** of the [Research Foundation-Flanders (FWO)](https://www.fwo.be/en/), performing analyses of astrophysical observations in the research groups of [Prof. Dr. Hans Van Winckel](https://scholar.google.be/citations?user=XF-c7_IAAAAJ&hl=nl) at [KU Leuven's Institute of Astronomy (IoA)](https://fys.kuleuven.be/ster) and [Prof. Devika Kamath](https://scholar.google.com.au/citations?user=RXjUr1IAAAAJ&hl=en) at [Macquarie University's Astrophysics and Space Technologies Research Centre (ASTRC)](https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/astrophysics-and-space-technologies).
 
 Our research focuses on observations of a specific type of **evolved low-to-intermediate mass stars**, called post-AGB stars. Stripped of their exterior in the preceding evolutionary phase, these stars now rapidly contract and approach the final stages of their life. If orbited by an unevolved companion star, we call these stellar systems post-AGB binaries. In many binaries, the ejected star material has been shepherded into gigantic **circumbinary discs** of dust and gas, similar to the planet-forming environment around the youngest stars. Aside from **tracing previous stages of stellar evolution**, especially binary post-AGBs show a variety of **ongoing inter-component interactions**, including **disc-binary interactions**, **jet formation** and possible **planet-disc interactions**.
 
