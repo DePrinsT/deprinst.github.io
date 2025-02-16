@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
+title: Research
 permalink: /projects/
-description: A summary of projects I currently am or have been involved with.
+description:
 nav: true
 nav_order: 3
 display_categories: [Software development]
