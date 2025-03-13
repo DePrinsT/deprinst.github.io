@@ -12,8 +12,8 @@ profile:
     <p>Email:<br>
     toon.deprins@protonmail.com<br><br></p>
     <p>Affiliations:<br>
-      <a href='https://fys.kuleuven.be/ster'>&#x2022 KU Leuven, IoA</a><br>
-      <a href='https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/astrophysics-and-space-technologies'>&#x2022 Macquarie University, ASTRC</a><br>
+      <a href='https://fys.kuleuven.be/ster'>&#x2022 KU Leuven</a><br>
+      <a href='https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/astrophysics-and-space-technologies'>&#x2022 Macquarie University</a><br>
       <a href='https://www.fwo.be/en/'>&#x2022 Research Foundation-Flanders </a>
     <br><br></p>
 
@@ -33,7 +33,7 @@ social: true # includes social icons at the bottom of the page
 /* HTML/CSS pseudo-element after main body to add background image*/
 body::after {
   content: "";
-  background: url('../assets/img/cover_phd.jpg');
+  background: url('../assets/img/cover_phd_impressionist_upscaled.png');
   background-size:cover;
   background-repeat:no-repeat;
   opacity: 0.3;
@@ -49,17 +49,17 @@ body::after {
 
 <p allign="middle">
   <img src="../assets/img/ivs_logo.png" width="80" />
+  &nbsp;
   <img src="../assets/img/macquarie_logo.png" width="70" /> 
 </p>
 
 
-Hi, I'm Toon De Prins. Welcome to my website! I'm a **PhD fellow in fundamental research** of the [Research Foundation-Flanders (FWO)](https://www.fwo.be/en/), performing analysis of astrophysical observations in the research groups of [Prof. Dr. Hans Van Winckel](https://scholar.google.be/citations?user=XF-c7_IAAAAJ&hl=nl) at [KU Leuven's Institute of Astronomy (IoA)](https://fys.kuleuven.be/ster) and [Prof. Devika Kamath](https://scholar.google.com.au/citations?user=RXjUr1IAAAAJ&hl=en) at [Macquarie University's Astrophysics and Space Technologies Research Centre (ASTRC)](https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/astrophysics-and-space-technologies).
+Hi, I'm Toon De Prins. Welcome to my website! I'm a **PhD fellow in fundamental research** of the [Research Foundation-Flanders (FWO)](https://www.fwo.be/en/), performing analysis of astrophysical observations in the research groups of [Prof. Dr. Hans Van Winckel](https://scholar.google.be/citations?user=XF-c7_IAAAAJ&hl=nl) at [KU Leuven's Institute of Astronomy](https://fys.kuleuven.be/ster) and [Prof. Devika Kamath](https://scholar.google.com.au/citations?user=RXjUr1IAAAAJ&hl=en) at [Macquarie University's Astrophysics and Space Technologies Research Centre](https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/astrophysics-and-space-technologies).
 
-My research focuses on observations of post-AGB stars. Stripped of their exterior in the preceding evolutionary phase, these stars now rapidly contract and approach the final stages of their life. If orbited by an unevolved companion star, we call these stellar systems post-AGB binaries. In many binaries, the ejected star material has been shepherded into gigantic **circumbinary discs** of dust and gas, similar to the planet-forming environment around stars that are still forming. Aside from **tracing previous stages of stellar evolution**, especially binary post-AGBs show a variety of **ongoing inter-component interactions**, including **disc-binary interactions**, **jet formation** and possible **planet-disc interactions**.
+My research focuses on observations of post-AGB stars. Stripped of their exterior in the preceding evolutionary phase, these stars now rapidly contract and approach the final stages of their life. If orbited by an unevolved companion star, we call these stellar systems post-AGB binaries. In many binaries, the ejected star material has been shepherded into gigantic **circumbinary discs** of dust and gas, similar to the planet-forming environment around stars that are still forming. Aside from **tracing previous stages of stellar evolution**, especially binary post-AGBs show a variety of **ongoing inter-component interactions**, including **disc-binary interactions**, **jet formation** and possible **planet-disc interactions**. 
+These shape the final fate of these stars and their possible planetary nebulae, and hint at the possibility of second-generation exoplanet formation in their dusty discs.
 
-We observe these systems in order to constrain the crucial, yet poorly understood, processes of binary star interactions and heavy element creation. These processes took place when the evolved star was still a swolen giant. Moreover, we study the still ongoing strong interactions, which shape the final fate of these stars and their possible planetary nebulae, and the possibility of second-generation exoplanet formation in their dusty discs.
-
-This extensive scientific scope requires a wide range of observational and analysis techniques, and my research focuses on the following:
+Studying this extensive scientific scope requires a wide range of observational and analysis techniques, and my research focuses on the following:
 
 - **Long baseline optical interferometry** to image the inner regions of the circumbinary discs at unrivaled resolution, constraining their structure, morphology, interactions with the central stars and the possibility embedded giant planets. These observations are interpreted using a host of tools, including in-group-developed software packages to perform intricate [neural network image reconstruction](https://github.com/DePrinsT/organic) and [fitting of radiative transfer models](https://github.com/DePrinsT/distroi).
 

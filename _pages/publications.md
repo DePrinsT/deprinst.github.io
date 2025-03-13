@@ -11,7 +11,7 @@ nav_order: 2
 /* HTML/CSS pseudo-element after main body to add background image*/
 body::before {
   content: "";
-  background: url('../assets/img/cover_phd.jpg');
+  background: url('../assets/img/cover_phd_impressionist_upscaled.png');
   background-size:cover;
   background-repeat:no-repeat;
   opacity: 0.3;
