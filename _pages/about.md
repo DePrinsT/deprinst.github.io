@@ -51,6 +51,8 @@ body::after {
   <img src="../assets/img/ivs_logo.png" width="80" />
   &nbsp;
   <img src="../assets/img/macquarie_logo.png" width="70" /> 
+  &nbsp;
+  <img src="../assets/img/fwo_logo.png" width="120" /> 
 </p>
 
 
