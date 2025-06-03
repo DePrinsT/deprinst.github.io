@@ -11,10 +11,10 @@ nav_order: 2
 /* HTML/CSS pseudo-element after main body to add background image*/
 body::before {
   content: "";
-  background: url('../assets/img/cover_phd_impressionist_upscaled.png');
+  background: url('../assets/img/cover_phd_impressionist_upscaled_brighter.png');
   background-size:cover;
   background-repeat:no-repeat;
-  opacity: 0.3;
+  opacity: 0.4;
   background-position: 50% 0;
   top: 0;
   left: 0;
