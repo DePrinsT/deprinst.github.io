@@ -5,7 +5,7 @@ description: A Python package to compute observables from radiative transfer mod
 img: assets/img/distroi_logo.png
 importance: 1
 redirect: https://github.com/DePrinsT/distroi 
-category: Software development
+category: Current
 related_publications: true
 ---
 

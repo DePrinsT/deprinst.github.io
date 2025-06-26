@@ -5,7 +5,7 @@ description: A Python package for image reconstruction from the data provided by
 img: assets/img/organic_logo.png
 importance: 2
 redirect: https://github.com/DePrinsT/organic
-category: Software development
+category: Current
 related_publications: true
 ---
 

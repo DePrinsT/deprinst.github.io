@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Research
-permalink: /projects/
+permalink: /research/
 description:
 nav: true
 nav_order: 3
-display_categories: [Software development]
+display_categories: [Current]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/research.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
