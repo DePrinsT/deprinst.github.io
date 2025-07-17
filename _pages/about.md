@@ -20,7 +20,7 @@ profile:
     <p>Addresses:<br>
       &#x2022 Celestijnenlaan 200D<br> 
       3001 Leuven, Belgium<br>
-      &#x2022 7 Wally's Walk <br>
+      &#x2022 12 Wally's Walk <br>
       NSW 2109, Australia
     </p>
 
