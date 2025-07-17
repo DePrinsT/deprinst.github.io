@@ -26,6 +26,8 @@ body::after {
 </style>
 
 #### 2025:
+- Contributed talk @ 2025 Astronomical Society of Australia's Annual Science Meeting (July 8 2025):
+*' Post-AGB postcards: Revealing evolved star disc substructure through optical interferometry'* [(conference website)](https://indico.global/event/12673/)
 
 - Contributed talk @ 2025 European Astronomical Society Annual Meeting (June 23 2025): 
 *'Post-AGB postcards: Revealing evolved star disc substructure through optical interferometry'* [(conference website)](https://eas.unige.ch/EAS2025/)
