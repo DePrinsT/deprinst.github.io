@@ -31,7 +31,7 @@ support roles and general science outreach.
 ## Teaching
 
 - KU Leuven:
-  - [Fysica 1: mechanica en golven](https://onderwijsaanbod.kuleuven.be/syllabi/n/I0N10EN.htm#activetab=doelstellingen_idp36464) (Physics 1: mechanics and waves); **Lab assistant**. *Spring 2023*.
+  - [Fysica 1: mechanica en golven](https://onderwijsaanbod.kuleuven.be/syllabi/n/I0N10EN.htm#activetab=doelstellingen_idp36464) (Physics 1: mechanics and waves); **Lab assistant**. *Spring 2024*.
   - [Algemene natuurkunde II](https://onderwijsaanbod.kuleuven.be/syllabi/n/G0N13BN.htm#activetab=doelstellingen_idp1117680) (General physics II); **Lab assistant**. *Fall 2023, Fall 2024*.
   - [Algemene natuurkunde I](https://onderwijsaanbod.kuleuven.be/syllabi/n/G0N03BN.htm#activetab=doelstellingen_idp5521952) (General physics I); **Teaching assistant** exercise sessions. *Fall 2022, Spring 2025*.
 
