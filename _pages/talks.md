@@ -26,6 +26,9 @@ body::after {
 </style>
 
 #### 2025:
+- Contributed talk @ SPRIGS: Stellar and Planetary Research in Greater Sydney (August 8 2025):
+*'An optical long baseline expedition to the rims of evolved star dusty discs'*
+
 - Contributed talk @ 2025 Astronomical Society of Australia's Annual Science Meeting (July 8 2025):
 *' Post-AGB postcards: Revealing evolved star disc substructure through optical interferometry'* [(conference website)](https://indico.global/event/12673/)
 
