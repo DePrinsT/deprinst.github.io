@@ -26,6 +26,9 @@ body::after {
 </style>
 
 #### 2025:
+- Contributed talk @ Why Galaxies care about AGB stars V (November 20 2025):
+*'Here be substructures: an interferometric imaging voyage to the inner rims of dusty post-AGB discs'* [(conference website)](https://www.eso.org/sci/meetings/2025/whygalaxiescareaboutAGB.html)
+
 - Contributed talk @ SPRIGS: Stellar and Planetary Research in Greater Sydney (August 8 2025):
 *'An optical long baseline expedition to the rims of evolved star dusty discs'*
 

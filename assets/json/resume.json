@@ -24,12 +24,12 @@
   },
   "work": [
     {
-      "name": "KU Leuven, Institute of Astronomy",
+      "name": "KU Leuven & Macquarie University",
       "position": "PhD student",
       "url": "https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_53104652.htm#activetab=diploma_omschrijving",
       "startDate": "Sep 2023",
       "endDate": "NOW",
-      "summary": "Doctoral research position focusing on observational interferometric characterization of dusty discs surrounding post-AGB binary systems. Includes a 20% commitment to teaching duties.",
+      "summary": "Doctoral research position focusing on observational interferometric characterization of dusty discs surrounding post-AGB binary systems. Joint PhD at Macquarie University since February 2025. Includes a 20% commitment to teaching duties at KU Leuven.",
       "highlights": ["Binary stars", "Optical interferometry", "Circumstellar discs"]
     }
   ],
@@ -71,6 +71,13 @@
   ],
   "awards": [
     {
+      "title": "FWO Grant for participation in a conference abroad ",
+      "date": "SEP 2025",
+      "awarder": "Research Foundation - Flanders (FWO)",
+      "url": "https://www.fwo.be/en/support-programmes/all-calls/mobility/grant-for-participation-in-a-conference-abroad/",
+      "summary": "This travel grant supports researchers who wish to actively participate in an international scientific conference abroad. Granted for my participation in the 'Why Galaxies care about AGB stars V' conference."
+    },
+    {
       "title": "International Cotutelle Macquarie University Research Excellence Scholarship 'iMQRES'",
       "date": "JAN 2025",
       "awarder": "Macquarie University",
@@ -78,14 +85,14 @@
       "summary": "The iMQRES scheme aims to support exceptional international graduate research students enrolled in research priority areas."
     },
     {
-      "title": "Short research stay Travel Grant",
+      "title": "FWO Short research stay travel grant",
       "date": "SEP 2024",
       "awarder": "Research Foundation - Flanders (FWO)",
       "url": "https://fwo.be/en/support-programmes/all-calls/mobility/grant-for-a-short-study-visit-abroad/",
-      "summary": "The FWO short stay Travel Grant supports researchers who wish to spend a short period abroad to perform research in a non-Belgian organisation."
+      "summary": "The FWO short stay Travel Grant supports researchers who wish to spend a short period abroad to perform research in a non-Belgian organisation. Granted for a three week research stay at Macquarie University."
     },
     {
-      "title": "PhD Fellowship fundamental research",
+      "title": "FWO PhD Fellowship fundamental research",
       "date": "OCT 2023",
       "awarder": "Research Foundation - Flanders (FWO)",
       "url": "https://www.fwo.be/en/support-programmes/all-calls/phd/phd-fellowship-fundamental-research/",
