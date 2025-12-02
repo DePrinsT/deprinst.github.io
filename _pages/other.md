@@ -35,7 +35,7 @@ support roles and general science outreach.
   - [Algemene natuurkunde II](https://onderwijsaanbod.kuleuven.be/syllabi/n/G0N13BN.htm#activetab=doelstellingen_idp1117680) (General physics II); **Lab assistant**. *Fall 2023, Fall 2024*.
   - [Fysica 1: mechanica en golven](https://onderwijsaanbod.kuleuven.be/syllabi/n/I0N10EN.htm#activetab=doelstellingen_idp36464) (Physics 1: mechanics and waves); **Lab assistant**. *Spring 2024*.
 - Kunde:
-  - **Physics tutor** at [Kunde](https://kunde.be/); Developed course material and helped prepare students for the [Flemish medical entry exam](https://www.kuleuven.be/english/education/educational-glossary/educationalglossary-e/entrance-test). *August 2022 - July 2024*
+  - **Physics tutor** at [Kunde](https://kunde.be/); Developed course material and helped prepare students for the [Flemish medical entry exam](https://www.kuleuven.be/english/education/educational-glossary/educationalglossary-e/entrance-test). *August 2022 - July 2024*.
 
 ## Support
 - KU Leuven:
