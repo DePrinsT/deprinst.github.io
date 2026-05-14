@@ -51,7 +51,7 @@
       "location": "Leuven, Belgium",
       "url": "https://fys.kuleuven.be/ster/education/a-a/master-astronomy-astrophysics",
       "area": "Physics",
-      "studyType": "MSc in Astronomy & Astrophysics",
+      "studyType": "MSc in Astronomy & Astrophysics (Summa cum laude)",
       "startDate": "SEP 2021",
       "endDate": "JUL 2023",
       "score": "Summa cum laude",
@@ -62,7 +62,7 @@
       "location": "Leuven, Belgium",
       "url": "https://www.kuleuven.be/opleidingen/bachelor-fysica",
       "area": "Physics",
-      "studyType": "BSc in Physics",
+      "studyType": "BSc in Physics (Magna cum laude)",
       "startDate": "SEP 2018",
       "endDate": "JUN 2021",
       "score": "Magna cum laude",
@@ -123,6 +123,13 @@
     }
   ],
   "publications": [
+    {
+      "name": "VLTI/PIONIER imaging of post-AGB binaries. An INSPIRING hunt for inner rim substructures in circumbinary discs",
+      "publisher": "arXiv",
+      "releaseDate": "May 2026",
+      "url": "https://doi.org/10.48550/arXiv.2605.13445",
+      "summary": "Accepted for publication in Astronomy & Astrophysics. Concerned long-baseline optical interferomeric image reconstructions to probe the morphology of circumbinary dust discs around post-AGB binaries."
+    },
     {
       "name": "Jet formation in post-AGB binaries. Confronting cold magnetohydrodynamic disc wind models with observations",
       "publisher": "Astronomy & Astrophysics",

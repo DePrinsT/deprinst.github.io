@@ -6,6 +6,10 @@ description:
 nav: true
 nav_order: 4
 ---
+<!--
+TODO: add Leuven science magazine article on Mars seismology and
+also the outreach events at Macquarie (research day, girls to graduates, etc.)
+-->
 
 <style>
 /* HTML/CSS pseudo-element after main body to add background image*/
