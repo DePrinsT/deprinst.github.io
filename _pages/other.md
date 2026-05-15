@@ -29,8 +29,8 @@ body::after {
 }
 </style>
 
-This page contains my contributions to various other elements of professional life, including teaching at the university level, 
-support roles and general science outreach.
+This page contains contributions to various other elements of my professional life, including teaching at the university level, 
+technical support roles and general science outreach.
 
 ## Teaching
 
@@ -43,9 +43,9 @@ support roles and general science outreach.
 
 ## Support
 - KU Leuven:
-  - System Guru; Volunteered as *Guru* in support of the Institute of Astronomy's system administration team.
+  - **System administration *Guru***; Volunteered in support of the Institute of Astronomy's system administration team.
   Provided assistance to institute students and staff with regards to software/library compilation and installation (Fortran/C/C++), as well as access to the
-  institute's SLURM computational cluster. *July 2024 - March 2025*.
+  institute's SLURM HPC cluster. *July 2024 - March 2025*.
  
 ## Outreach
 - Macquarie University:
