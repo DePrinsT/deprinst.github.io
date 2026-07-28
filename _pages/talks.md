@@ -24,6 +24,9 @@ body::after {
   z-index: -1;
 }
 </style>
+#### 2026:
+- Talk @ research visit to Queen Mary University's Astronomy Unit (July 24 2026):
+*'Old star discs deserve some love too'*
 
 #### 2025:
 - Contributed talk @ Why Galaxies care about AGB stars V (November 21 2025):
