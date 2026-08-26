@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/
-title: Talks
+title: Talks & Presentations
 description: 
 nav: true
 nav_order: 4
@@ -25,7 +25,10 @@ body::after {
 }
 </style>
 #### 2026:
-- Talk @ research visit to Queen Mary University's Astronomy Unit (July 24 2026):
+- Poster presentation @ Discs on the Exe (July 27-31 2026):
+*'Here be substructures: a VLTI/PIONIER view of the inner rims of dusty post-AGB discs'* [(conference website)](https://discsontheexe.org/) [(poster)]({{ '/assets/pdf/poster_discs_on_the_exe.pdf' | relative_url }})
+
+- Visitor talk @ research visit to Queen Mary University's Astronomy Unit (July 24 2026):
 *'Old star discs deserve some love too'*
 
 #### 2025:

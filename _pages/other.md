@@ -44,12 +44,12 @@ technical support roles and general science outreach.
 ## Support
 - KU Leuven:
   - **System administration *Guru***; Volunteered in support of the Institute of Astronomy's system administration team.
-  Provided assistance to institute students and staff with regards to software/library compilation and installation (Fortran/C/C++), as well as access to the
+  Provided assistance to institute students and staff with regards to software/library compilation and installation (Fortran/C/C++/Python), as well as access to the
   institute's SLURM HPC cluster. *July 2024 - March 2025*.
  
 ## Outreach
 - Macquarie University:
-  - [Association for Astronomy](https://www.eventbrite.com.au/o/association-for-astronomy-macquarie-university-1947206697); Volunteer for the Association for Astronomy (AfA) in public and private outreach sessions at the Macquarie University Observatory. *June 2026 - now*
+  - [Association for Astronomy](https://www.eventbrite.com.au/o/association-for-astronomy-macquarie-university-1947206697); Volunteered for the Association for Astronomy (AfA) in public and private outreach sessions at the Macquarie University Observatory. *June 2026 - now*
   - [Astronomy Open Night 2025](https://www.mq.edu.au/faculty-of-science-and-engineering/news/events/astronomy-open-night-2025); MC'd and presented during the Astronomy Open Night short talks program. *September 27, 2025*
   - [Experience Macquarie Days 2025](https://event.mq.edu.au/experience-macquarie); Partook in a panel discussion and Q&A session to present the life and work of astrophysicists at Macquarie University. *April 16 2025*
 - KU Leuven:
