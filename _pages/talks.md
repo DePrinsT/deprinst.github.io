@@ -8,19 +8,32 @@ nav_order: 4
 ---
 
 <style>
-/* HTML/CSS pseudo-element after main body to add background image*/
-body::after {
+/* Container holding your background and content */
+body {
+  position: relative;
+  /* Ensures text contrasts beautifully against the background as opacity drops */
+  background-color: var(--global-bg-color) !important; 
+}
+
+/* Pseudo-element strictly handling the background image */
+body::before {
   content: "";
-  background: url('../assets/img/cover_phd_impressionist_upscaled_brighter.png');
-  background-size:cover;
-  background-repeat:no-repeat;
-  opacity: 0.4;
-  background-position: 50% 0;
+  position: fixed; /* Keeps the background full-screen and static while scrolling */
   top: 0;
   left: 0;
-  bottom: 0;
-  right: 0;
-  position: absolute;
+  width: 100%;
+  height: 100%;
+  
+  /* Point to your asset image path */
+  background-image: url('../assets/img/cover_phd_impressionist_low_size_brighter.jpg'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  /* Adjust your background transparency here (0.0 fully clear to 1.0 fully solid) */
+  opacity: 0.2;
+  
+  /* Pushes the background layer completely behind the main portfolio content */
   z-index: -1;
 }
 </style>
