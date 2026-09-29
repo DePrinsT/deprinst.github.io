@@ -54,16 +54,22 @@ technical support roles and general science outreach.
 - Kunde:
   - **Physics tutor** at [Kunde](https://kunde.be/); Developed course material and helped prepare students for the [Flemish medical entry exam](https://www.kuleuven.be/english/education/educational-glossary/educationalglossary-e/entrance-test). *August 2022 - July 2024*.
 
-## Support
+## Technical Support
 - KU Leuven:
   - **System administration *Guru***; Volunteered in support of the Institute of Astronomy's system administration team.
   Provided assistance to institute students and staff with regards to software/library compilation and installation (Fortran/C/C++/Python), as well as access to the
   institute's SLURM HPC cluster. *July 2024 - March 2025*.
  
+## Event Organisation
+- Conferences:
+  - [Solvay-Torino XV Workshop on AGB Stars](https://fys.kuleuven.be/ster/events/conferences/2027/solvay-torino-workshop/solvay-torino-xv-workshop-2027) (LOC): LOC member for the fifteenth edition of the Torino Workshop, jointly organised by Université libre de Bruxelles (ULB),
+  KU Leuven and the Solvay Institutes. Responsible for conference website design and maintenance.
+
 ## Outreach
 - Macquarie University:
+  - [Astronomy Open Night 2026](https://www.mq.edu.au/faculty-of-science-and-engineering/events/events/astronomy-open-night-2025); Operated a manual Dobsonian telescope to show Open Night visitors the Moon and Saturn at the Macquarie University Observatory. *September 19, 2026*
   - [Association for Astronomy](https://www.eventbrite.com.au/o/association-for-astronomy-macquarie-university-1947206697); Volunteered for the Association for Astronomy (AfA) in public and private outreach sessions at the Macquarie University Observatory. *June 2026 - now*
-  - [Astronomy Open Night 2025](https://www.mq.edu.au/faculty-of-science-and-engineering/news/events/astronomy-open-night-2025); MC'd and presented during the Astronomy Open Night short talks program. *September 27, 2025*
+  - [Astronomy Open Night 2025](https://www.mq.edu.au/faculty-of-science-and-engineering/events/events/astronomy-open-night-2025); MCed and presented during the Astronomy Open Night short talks program. *September 27, 2025*
   - [Experience Macquarie Days 2025](https://event.mq.edu.au/experience-macquarie); Partook in a panel discussion and Q&A session to present the life and work of astrophysicists at Macquarie University. *April 16 2025*
 - KU Leuven:
   - [600 years KU Leuven: Mapping the Universe](https://www.kuleuven.be/600years/); Gave a public outreach presentation on the space- and ground-based astronomical facilities that KU Leuven's Institute of Astronomy is involved with. Given in the context of the university's 600th anniversary. *February 15 2025*
